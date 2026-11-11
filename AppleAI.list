@@ -1,0 +1,24 @@
+# AppleAI - Loon Remote Rules
+# OpenAI / ChatGPT
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN,production-openaicom-storage.azureedge.net
+DOMAIN-SUFFIX,chatgpt.livekit.cloud
+
+# Feature Configuration
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN,api.statsig.com
+
+# Apple Intelligence / PCC
+DOMAIN,apple-relay.apple.com
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,cp4.cloudflare.com
+
+# Siri
+DOMAIN,guzzoni.apple.com
+DOMAIN-SUFFIX,smoot.apple.com
